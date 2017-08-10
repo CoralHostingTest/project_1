@@ -1,4 +1,4 @@
-site_name: Test update Project
+site_name: Coral e2e tests
 pages:
     - "Getting Started": index.md
 theme: readthedocs
