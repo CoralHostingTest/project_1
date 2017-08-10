@@ -1,17 +1,6 @@
 site_name: Test update Project
 pages:
     - "Getting Started": index.md
-    - "Documents":
-        - "test": test.md
-    - "updated Foo xxx":
-        - "updated Foo 1": Foo_1.md
-        - "updated Foo 3": Foo_3.md
-    - "Other links":
-        - "Copyright": copyright.md
-        - "Outer links":
-                - "Outer links": related_links.md
-                - "Splunk dashboard": apex_reserved_splunk_dashboard.md
-                - "Yamas dashboard": apex_reserved_yamas_dashboard.md
 theme: readthedocs
 theme_dir: theme
 markdown_extensions:
